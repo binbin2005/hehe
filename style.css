@@ -407,7 +407,7 @@ body {
   .isi {
     background-color: #b76e79;
     width: 84vw; /* 100% dari lebar viewport */
-    min-height: 70dvh;
+    min-height: 50dvh;
     /* tinggi minimum satu layar penuh */
     /* display: flex; */
     /* flex-direction: column; */
